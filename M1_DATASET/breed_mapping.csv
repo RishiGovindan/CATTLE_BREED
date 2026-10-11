@@ -1,0 +1,16 @@
+breed_id,animal_type,breed_name,model_class_index
+BRD000,cattle,Ayrshire,0
+BRD001,cattle,Gir,1
+BRD002,cattle,Kangayam,2
+BRD003,cattle,Kenkatha,3
+BRD004,cattle,Mewati,4
+BRD005,cattle,Nari,5
+BRD006,cattle,Ongole,6
+BRD007,cattle,Poda Thirupu,7
+BRD008,cattle,Purnea,8
+BRD009,cattle,Red Kandhari,9
+BRD010,buffalo,Banni,10
+BRD011,buffalo,Bhadawari,11
+BRD012,buffalo,Jaffarabadi,12
+BRD013,buffalo,Murrah,13
+BRD014,buffalo,Nagpuri,14

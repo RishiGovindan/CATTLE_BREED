@@ -1,0 +1,27 @@
+# Passwords and secrets
+.env
+.env.*
+**/.env
+**/.env.*
+*.pem
+*.key
+
+# Python
+venv/
+**/venv/
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# React
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Temporary files
+*.log
+.pytest_cache/
+M1_DATASET/final_dataset_v1/
